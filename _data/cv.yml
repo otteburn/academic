@@ -14,7 +14,7 @@ cv:
     - network: ORCID
       username: "0000-0002-5938-7057"
     - network: LinkedIn
-       username: https://www.linkedin.com/in/kariirwin/
+      username: https://www.linkedin.com/in/kariirwin/
 
   address:
     city: Brussels
