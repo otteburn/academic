@@ -5,10 +5,10 @@ cv:
   location: Brussels, Belgium
   image: ""
   summary: >
-    International political economist specializing in private and informal
-    governance, EU trade and regulatory policy, business and human rights, access to
-    remedy, multi-stakeholder governance, and corporate accountability and due
-    diligence regulation.
+    International political economist specializing in private and informal governance,
+    EU trade and regulatory policy, business and human rights, access to remedy,
+    multi-stakeholder governance, and corporate accountability and due diligence
+    regulation.
 
   social_networks:
     - network: ORCID
@@ -21,25 +21,11 @@ cv:
     countryCode: BE
 
   sections:
-    Current Position:
-      - company: Leuven Centre for Global Governance Studies, KU Leuven
-        position: Senior Researcher (Post-Doctoral Fellow)
-        location: Leuven / Brussels, Belgium
-        start_date: 2024-09
-        end_date: present
-        summary: >
-          Full-time position researching corporate accountability, global sustainability
-          and global economic governance, EU trade and regulatory policy, and
-          transnational private authority.
-        highlights:
-          - "Lead researcher, FWO-funded project on due diligence implementation (MEDIATE, 2024-2028)"
-          - "Member of coordination team, Jean Monnet Network on transatlantic engagement (TANDEM, 2026-29)"
-          - "Member of coordination team, Jean Monnet Network on EU external action (EU-RENEW, 2023-2026)"
 
     Education:
       - institution: KU Leuven
         location: Belgium
-        area: Faculty of Social Sciences
+        area: "Faculty of Social Sciences"
         studyType: Ph.D.
         start_date: 2018-09
         end_date: 2024-09
@@ -58,7 +44,7 @@ cv:
           - "Thesis: 'The Elephant in the Room: Indian Business Perceptions of the India-EU Bilateral Trade and Investment Agreement'"
       - institution: Illinois Wesleyan University
         location: United States
-        area: (South Asian) Religion
+        area: "(South Asian) Religion"
         studyType: B.A.
         start_date: 2005-08
         end_date: 2009-05
@@ -66,7 +52,23 @@ cv:
         highlights:
           - "Honors Thesis: 'A Place of Paramount Peace: The Unofficial Hindu Nationalism of an Officially Peaceful Movement'"
 
-    Teaching Experience:
+    Experience:
+      - company: Leuven Centre for Global Governance Studies, KU Leuven
+        position: Senior Researcher (Post-Doctoral Fellow)
+        location: Leuven / Brussels, Belgium
+        start_date: 2024-09
+        end_date: present
+        summary: >
+          Full-time position researching corporate accountability, global sustainability
+          and global economic governance, EU trade and regulatory policy, and
+          transnational private authority.
+        highlights:
+          - "Lead researcher, FWO-funded project on due diligence implementation (MEDIATE, 2024-2028)"
+          - "Member of coordination team, Jean Monnet Network on transatlantic engagement (TANDEM, 2026-29)"
+          - "Member of coordination team, Jean Monnet Network on EU external action (EU-RENEW, 2023-2026)"
+          - "Invited speaker, Oxfam Coalition Meeting (Sept 2026): Institutional Design of Supervisory Authorities for the CSDDD"
+          - "Invited speaker, OECD Responsible Business Conduct Forum (June-July 2026): The role of OECD National Contact Points in Access to Remedy"
+          - "Invited speaker, ETUC-ETUI Seminar on a New Labour-Centred Trade Paradigm (June 2026): Making Trade Work for Labour and Sustainability in a Geopolitical World"
       - company: Faculty of Social Sciences, KU Leuven
         position: "Lecturer (Course Coordinator and Instructor) — Global Environmental Politics (6 ECTS)"
         location: Leuven, Belgium
@@ -80,16 +82,21 @@ cv:
           Development Studies, Master of Geography). Covers global governance institutions,
           international environmental agreements, multi-stakeholder processes, and policy
           implementation challenges.
-      - company: Irish College Leuven
-        position: "Lecturer (ad hoc) — EU Policymaking and EU Trade"
-        location: Leuven, Belgium
-        start_date: 2022
+      - company: Guest Lecturer, various institutions
+        position: "EU Policymaking, Trade Policy, and Global Governance"
+        location: Europe
+        start_date: 2019
         end_date: present
         summary: >
-          Regularly deliver stand-alone lectures to study abroad students on EU
-          Institutions and Decision-Making, EU Trade Policy, and EU Autonomous Measures:
-          Geopolitics and Evolving Priorities.
-      - company: Faculty of Social Sciences, KU Leuven
+          Regularly deliver guest lectures and stand-alone sessions on EU institutions, EU external action,
+          trade policy, and global governance topics for study abroad programmes,
+          summer schools, and graduate courses.
+        highlights:
+          - "Irish College Leuven (2022–present): EU Institutions and Decision-Making, EU Trade Policy, EU Autonomous Measures"
+          - "Euro-Asia Summer School, Barcelona (2025 - present): The EU and Global Trade Governance; Fitting Values into Strategic Autonomy"
+          - "University of Georgia Law Global Governance Summer School (May 2023 - present): International Organizations and Rising Informality, Business and Human Rights, Global Governance of Trade"
+          - "ETEE Winter School (Oct 2020): The EU as a Trade Power in a Global Non-Trade Moment"
+      - company: Master of European Studies, KU Leuven
         position: "Teaching Assistant — EU Trade Policy (6 ECTS)"
         location: Leuven, Belgium
         start_date: 2019-01
@@ -98,293 +105,6 @@ cv:
           Taught seminars on EU trade agreements, trade and sustainable development
           chapters, private governance, and EU trade policy-making processes. Supervised
           student research projects on EU trade negotiations and implementation.
-
-    Guest Lectures:
-      - title: "The EU and Global Trade Governance: Between Values and Interests in Geopolitical Times"
-        authors: ["Euro-Asia Summer School, Barcelona"]
-        releaseDate: 2025-09
-      - title: "Fitting Values into Strategic Autonomy: The EU in the Promotion of Human and Labour Rights Beyond Borders"
-        authors: ["Euro-Asia Summer School, Barcelona"]
-        releaseDate: 2025-09
-      - title: "International Organizations: Internal Challenges, External Shocks and Rising Informality"
-        authors: ["University of Georgia Law Global Governance Summer School"]
-        releaseDate: 2025-05
-      - title: "Qualitative Analysis and Process Tracing"
-        authors: ["M.A. European Studies, KU Leuven"]
-        releaseDate: "2020-2023 (annual)"
-      - title: "Global Governance of Trade: Voluntary Governmental Rules and Business and Human Rights"
-        authors: ["International Law and Global Governance Summer School"]
-        releaseDate: 2023-05
-      - title: "Global Governance of Trade: Voluntary Governmental Rules"
-        authors: ["M.A. European Studies, KU Leuven"]
-        releaseDate: "2019-2022 (annual)"
-      - title: "The EU as a Trade Power in a Global Non-Trade Moment: Recent Developments in Interactions with South Asia"
-        authors: ["ETEE Winter School"]
-        releaseDate: 2020-10
-      - title: "European and South Asian Regionalism"
-        authors: ["M.A. European Studies, KU Leuven"]
-        releaseDate: "2019, 2020, 2021"
-
-    Recent Speaking Engagements:
-      - company: Oxfam Coalition Meeting
-        position: "Invited speaker: Institutional Design of Supervisory Authorities for the CSDDD"
-        start_date: 2026-09
-        end_date: 2026-09
-      - company: OECD Responsible Business Conduct Forum
-        position: "Invited speaker: The role of OECD National Contact Points in Access to Remedy"
-        start_date: 2026-06
-        end_date: 2026-07
-      - company: "ETUC – ETUI Seminar on a New Labour-Centred Trade Paradigm"
-        position: "Invited speaker: Making Trade Work for Labour and Sustainability in a Geopolitical World"
-        start_date: 2026-06
-        end_date: 2026-06
-
-    Research Funding and Projects:
-      - title: "FWO SBO Project: 'Moderating due diligence through intermediary engagement' (MEDIATE)"
-        authors: ["Research Foundation Flanders (FWO)"]
-        releaseDate: "2024-2028"
-        summary: >
-          Co-first author of successful research proposal for Strategic Basic Research
-          funding. Lead researcher examining the role of intermediaries (government
-          agencies, consulting firms, voluntary sustainability standards, trade unions,
-          and others) in implementing mandatory due diligence legislation. Member of
-          project coordination team managing multi-partner research consortium and
-          multi-stakeholder advisory council.
-      - title: "Jean Monnet Network: 'Transatlantic Network for Dialogue, Education and Multidisciplinary Research' (TANDEM)"
-        authors: ["Jean Monnet"]
-        releaseDate: "2026-2029"
-        summary: >
-          Member of project management team; network contributor examining EU-US
-          engagement on trade and sustainability governance.
-      - title: "Jean Monnet Policy Debate Network: 'EU Research and Education Network on Europe in the World' (EU-RENEW)"
-        authors: ["Jean Monnet"]
-        releaseDate: "2023-2026"
-        summary: >
-          Co-Manager of network involving 15+ institutions across Europe. Coordinated
-          network research outputs and multi-stakeholder dialogues. Co-edited open-access
-          textbook Europe in the World and co-developed a Massive Open Online Course on
-          EU External Affairs. Managed network communications and stakeholder engagement.
-      - title: "Jean Monnet Network: 'EU Research and Education Network on Foreign Policy Issues: Values and Democracy' (EU-VALUES)"
-        authors: ["Jean Monnet"]
-        releaseDate: "2024-2027"
-        summary: "Network contributor; member of coordination team."
-      - title: "EU H2020 Project: 'The European Union and the Future of the Global Governance – Future Trends and Scenarios' (GLOBE)"
-        authors: ["Horizon 2020"]
-        releaseDate: "2019-2022"
-        summary: >
-          Lead researcher for work packages on Trade and Sustainable Development and on
-          Innovative Governance Models. Lead coordinator for the Dissemination work
-          package. Conducted comparative institutional analysis across multiple global
-          governance regimes and contributed to the final report projecting future
-          scenarios for international organizations.
-
-    Peer-Reviewed Journal Articles:
-      - title: "How due diligence transforms private sustainability governance: The case of the Global Organic Textile Standard"
-        authors: ["Axel Marx", "Kari Otteburn (co-first authors)"]
-        publisher: Global Policy
-        releaseDate: 2026
-        url: "http://doi.org/10.1111/1758-5899.70188"
-      - title: "Pathways to remedy for corporate human rights abuse: a qualitative comparative analysis of the institutional design of the OECD national contact points"
-        authors: ["Kari Otteburn"]
-        publisher: "International Journal of Human Rights, 29(8), 1410–1435"
-        releaseDate: 2025
-        url: "https://doi.org/10.1080/13642987.2025.2460185"
-      - title: "Institutional Transformations of Global Governance – Key Challenges for International Organisations"
-        authors: ["Jacint Jordana", "Adam Holesch", "Lewin Schmitt", "Charles Roger", "Alexandros Tokhi", "Kari Otteburn", "Saz-Carranza", "Marie Vandendriessche", "Michael Zürn", "David Coen", "David Levi-Faur", "Axel Marx"]
-        publisher: "International Review of Public Policy, 6(3)"
-        releaseDate: 2024
-        url: "https://doi.org/10.4000/13gfw"
-      - title: "Reaching the limit: access to remedy through nonjudicial mechanisms for victims of business-related human rights abuses"
-        authors: ["Kari Otteburn"]
-        publisher: International Journal of Human Rights
-        releaseDate: 2023
-        url: "https://doi.org/10.1080/13642987.2023.2251002"
-      - title: "All in favour? Indian business interests and the India-EU FTA"
-        authors: ["Kari Otteburn"]
-        publisher: Asia Europe Journal
-        releaseDate: 2023
-        url: "https://doi.org/10.1007/s10308-023-00672-y"
-      - title: "A Glass Half-Empty or Half-Full? An Assessment of the Labour Provisions in the CAI from Chinese and European Perspectives"
-        authors: ["Kari Otteburn", "Axel Marx"]
-        publisher: "Journal of World Investment and Trade, 23(4), 601-627 (Open Access)"
-        releaseDate: 2022
-        url: "https://doi.org/10.1163/22119000-12340262"
-      - title: "What role for regional organizations in goal-setting global governance? An analysis of the role of the European Union and ASEAN in the Sustainable Development Goals"
-        authors: ["Axel Marx", "Sukmawani Bela Pertiwi", "Charline Depoorter", "Michiel Hoornick", "Tirta Nugraha Mursitama", "Kari Otteburn", "Lili Yulyadi Arnakim"]
-        publisher: "Global Public Policy and Governance, 1, 421-445 (Open Access)"
-        releaseDate: 2021
-        url: "https://doi.org/10.1007/s43508-021-00027-6"
-      - title: "Surprising Reversal: Workers Obtain Remedy at the Belgian National Contact Point for the OECD Guidelines in Rare Agreement"
-        authors: ["Kari Otteburn"]
-        publisher: "International Labor Rights Case Law, 7(2), 136-138"
-        releaseDate: 2021
-        url: "https://doi.org/10.1163/24056901-07020003"
-      - title: "No Guidance at the Belgian OECD National Contact Point: Can Mediation Alone 'Further the Effectiveness of the Guidelines'?"
-        authors: ["Kari Otteburn"]
-        publisher: "International Labor Rights Case Law, 7(1), 33-38"
-        releaseDate: 2021
-        url: "https://doi.org/10.1163/24056901-07010007"
-
-    Edited Volumes:
-      - title: "Europe-Asia Connectivities in Geopolitical Times"
-        authors: ["Kari Otteburn", "JeongHun Han", "Axel Marx (eds.)"]
-        publisher: Palgrave Macmillan
-        releaseDate: "forthcoming January 2027"
-      - title: "Research Handbook on Global Governance, Business and Human Rights"
-        authors: ["Axel Marx", "Geert Van Calster", "Jan Wouters", "Kari Otteburn", "Diana Lica (eds.)"]
-        publisher: "Cheltenham: Edward Elgar"
-        releaseDate: 2022
-
-    Book Chapters:
-      - title: "Corporate Sustainability and the EU Due Diligence Directive"
-        authors: ["Axel Marx", "Kari Otteburn", "Jan Wouters"]
-        publisher: "In L. Rubini (ed.), Research Handbook on Unilateral Measures in Trade, Investment and Economic Law. Edward Elgar"
-        releaseDate: forthcoming
-      - title: "The International Labour Organization"
-        authors: ["Kari Otteburn", "Axel Marx"]
-        publisher: "In J. Chaisse, C. Hermann (Eds.), The International Law of Economic Integration. Oxford University Press"
-        releaseDate: 2025
-      - title: "From Formal Intergovernmental Organizations to Informal Law-Making and Intergovernmental Organizations"
-        authors: ["Kari Otteburn", "Axel Marx", "Jan Wouters"]
-        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance, Ch. 4. Edward Elgar"
-        releaseDate: 2025
-      - title: "The Challenges of Governing Sustainable Development Through Goals: Prioritization and Coordination in Europe and Southeast Asia"
-        authors: ["Bela Pertiwi", "Axel Marx", "Charline Depoorter", "Tirta Nugraha Mursitama", "Kari Otteburn", "Lili Yukyadi Arnakim"]
-        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance, Ch. 14. Edward Elgar"
-        releaseDate: 2025
-      - title: "Degrees of Remedy: Understanding Remedy Outcomes at the OECD National Contact Points"
-        authors: ["Kari Otteburn"]
-        publisher: "In O. Davaanyam, M. Krajewski (Eds.), Corporate Human Rights Responsibility in OECD Case Law. Springer (open access)"
-        releaseDate: 2025
-        url: "https://doi.org/10.1007/978-3-031-75717-4_6"
-      - title: "Seeking remedies for corporate human rights abuses: What is the contribution of OECD National Contact Points?"
-        authors: ["Kari Otteburn", "Axel Marx"]
-        publisher: "In A. Marx, G. Van Calster, J. Wouters, K. Otteburn, D. Lica (Eds.), Research Handbook on Global Governance, Business and Human Rights, Ch. 11 (229-253). Edward Elgar"
-        releaseDate: 2022
-        url: "https://doi.org/10.4337/9781788979832.00018"
-      - title: "Global Governance of Business and Human Rights: An Introduction"
-        authors: ["Axel Marx", "Kari Otteburn", "Diana Lica", "Geert Van Calster", "Jan Wouters"]
-        publisher: "In Research Handbook on Global Governance, Business and Human Rights, Ch. 1 (1-21). Edward Elgar"
-        releaseDate: 2022
-        url: "https://doi.org/10.4337/9781788979832.00008"
-      - title: "The global governance of development"
-        authors: ["Axel Marx", "Kari Otteburn"]
-        publisher: "In Handbook on the Politics of International Development, Ch. 6 (91-106). Edward Elgar"
-        releaseDate: 2022
-
-    Commissioned Reports and Policy Briefs:
-      - title: "Overcoming Transposition Challenges of the CSDDD, Some Best Practices (Policy Brief 2)"
-        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
-        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
-        releaseDate: 2026
-      - title: "Accompanying Measures (Policy Brief 3)"
-        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
-        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
-        releaseDate: 2026
-      - title: "Study on the operational implementation and transposition in Belgium of the Corporate Sustainability Due Diligence Directive (2024/1760) of the European Union"
-        authors: ["C. Bright", "K. Otteburn", "H. Huyse", "A. Marx"]
-        publisher: "Commissioned by the Federal Public Service Economy, Belgium"
-        releaseDate: 2025
-      - title: "Implementing the CSDDD: Lessons learnt from the comparative experiences (Policy Brief 1)"
-        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
-        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
-        releaseDate: 2025
-      - title: "Trends in Global Governance and Future Scenarios 2030"
-        authors: ["J. Jordana", "A. Saz", "A. Marx", "A. Holesch", "M. Vandendriessche", "D. Coen", "D. Levi-Faur", "C. Roger", "M. Zürn", "A. Tokhi", "K. Otteburn", "L. Schmitt", "C. Moreno Villar"]
-        publisher: "GLOBE Report, Institut Barcelona d'Estudis Internacionals"
-        releaseDate: 2023
-        url: "https://doi.org/10.31009/ibei.2023.01"
-      - title: "Multistakeholder Governance"
-        authors: ["C. Depoorter", "A. Marx", "K. Otteburn"]
-        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
-        releaseDate: 2021
-      - title: "Shortcomings of Current Governance and Institutional Models"
-        authors: ["K. Otteburn", "A. Marx"]
-        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
-        releaseDate: 2020
-      - title: "Mapping of the Trade and Development Global Regimes and Institutions"
-        authors: ["A. Marx", "K. Otteburn", "V. Hegde", "et al."]
-        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
-        releaseDate: 2019
-
-    Other Publications:
-      - title: "Review: Vigilantes Beyond Borders: NGOs as Enforcers of International Law, by Mette Eilstrup-Sangiovanni and J.C. Sharman"
-        authors: ["Kari Otteburn"]
-        publisher: "Revue critique de droit international privé"
-        releaseDate: 2025
-      - title: "Seeking Corporate Accountability: Progress and Pitfalls of Mandatory Due Diligence"
-        authors: ["Kari Otteburn", "Axel Marx"]
-        publisher: "EU-RENEW Blog"
-        releaseDate: 2023
-      - title: "Open, sustainable and assertive... and incremental: Assessing labour provisions in the CAI"
-        authors: ["Kari Otteburn", "Axel Marx"]
-        publisher: "EU-RENEW Blog"
-        releaseDate: 2023
-      - title: "The OECD National Contact Points: A Promising External Regulator for Voluntary Sustainability Standards?"
-        authors: ["Kari Otteburn"]
-        publisher: "Nova School of International Law Blog"
-        releaseDate: 2021
-      - title: "Potential and Limitations of VSS as Global Governance Instruments. Insights from a case study of forest certification"
-        authors: ["Charline Depoorter", "Axel Marx", "Kari Otteburn"]
-        publisher: "GLOBE Blog"
-        releaseDate: 2021
-      - title: "Development for what? The evolving objectives of global development governance"
-        authors: ["Kari Otteburn"]
-        publisher: "GLOBE Blog"
-        releaseDate: 2020
-      - title: "The changing face of global trade"
-        authors: ["Kari Otteburn"]
-        publisher: "GLOBE Blog"
-        releaseDate: 2020
-
-    Fellowships, Awards, and Scholarships:
-      - title: "BICC&I and Emirates Scriptum Award for Best Master's Thesis"
-        awarder: BICC&I and Emirates
-        date: 2019
-      - title: "University Immersion Program Scholarship"
-        awarder: Sichuan University
-        date: 2018
-      - title: "Hindi Language Fellowship"
-        awarder: American Institute of Indian Studies
-        date: "AY 2009-2010"
-      - title: "Award for 'Best Research Project'"
-        awarder: American Institute of Indian Studies
-        date: 2010
-      - title: "Donald R. Koehn Memorial Award for 'Excellence in the Humanities'"
-        awarder: Illinois Wesleyan University
-        date: 2009
-      - title: Critical Language Scholarship
-        awarder: "Council of American Overseas Research Centers and U.S. Department of State"
-        date: 2008
-      - title: Technos International Scholarship
-        awarder: Tanaka Foundation
-        date: 2007
-
-    Additional Methodological Training:
-      - name: Process Tracing
-        summary: ECPR Winter School, 2021
-      - name: Qualitative Comparative Analysis
-        summary: ECPR Winter School, 2021
-      - name: Introduction to R
-        summary: FLAMES, 2021
-      - name: Method in Data Collection
-        summary: FLAMES, 2021
-      - name: Using NVIVO for qualitative data analysis
-        summary: FLAMES, 2020
-
-    Languages:
-      - name: English
-        summary: Native
-      - name: French
-        summary: Professional proficiency
-      - name: Hindi
-        summary: Intermediate
-      - name: Urdu
-        summary: Intermediate
-      - name: Dutch
-        summary: Basic
-
-    Previous Academic Positions:
       - company: Leuven Centre for Global Governance Studies, KU Leuven
         position: Junior Research Fellow
         location: Leuven, Belgium
@@ -398,3 +118,246 @@ cv:
           communication, dissemination, and exploitation strategy for EU H2020 Project
           RECONNECT (2018-2022), which received special recognition by the European
           Commission. Junior member of coordination team.
+
+    Projects:
+      - name: "MEDIATE — Moderating due diligence through intermediary engagement (FWO SBO Project)"
+        summary: >
+          Co-first author of successful research proposal for Strategic Basic Research
+          funding from Research Foundation Flanders (FWO). Lead researcher examining the
+          role of intermediaries (government agencies, consulting firms, voluntary
+          sustainability standards, trade unions, and others) in implementing mandatory
+          due diligence legislation. Member of project coordination team managing
+          multi-partner research consortium and multi-stakeholder advisory council.
+        start_date: 2024-01-01
+        end_date: 2028-01-01
+      - name: "TANDEM — Transatlantic Network for Dialogue, Education and Multidisciplinary Research (Jean Monnet Network)"
+        summary: >
+          Member of project management team; network contributor examining EU-US
+          engagement on trade and sustainability governance.
+        start_date: 2026-01-01
+        end_date: 2029-01-01
+      - name: "EU-RENEW — EU Research and Education Network on Europe in the World (Jean Monnet Policy Debate Network)"
+        summary: >
+          Co-Manager of network involving 15+ institutions across Europe. Coordinated
+          network research outputs and multi-stakeholder dialogues. Co-edited open-access
+          textbook Europe in the World and co-developed a Massive Open Online Course on
+          EU External Affairs. Managed network communications and stakeholder engagement.
+        start_date: 2023-01-01
+        end_date: 2026-01-01
+      - name: "EU-VALUES — EU Research and Education Network on Foreign Policy Issues: Values and Democracy (Jean Monnet Network)"
+        summary: "Network contributor; member of coordination team."
+        start_date: 2024-01-01
+        end_date: 2027-01-01
+      - name: "GLOBE — The European Union and the Future of the Global Governance: Future Trends and Scenarios (EU H2020 Project)"
+        summary: >
+          Lead researcher for work packages on Trade and Sustainable Development and on
+          Innovative Governance Models. Lead coordinator for the Dissemination work
+          package. Conducted comparative institutional analysis across multiple global
+          governance regimes and contributed to the final report projecting future
+          scenarios for international organizations.
+        start_date: 2019-01-01
+        end_date: 2022-01-01
+
+    Publications:
+      - title: "How due diligence transforms private sustainability governance: The case of the Global Organic Textile Standard"
+        authors: ["Axel Marx", "Kari Otteburn (co-first authors)"]
+        publisher: Global Policy
+        releaseDate: 2026-01-01
+        url: "http://doi.org/10.1111/1758-5899.70188"
+      - title: "Pathways to remedy for corporate human rights abuse: a qualitative comparative analysis of the institutional design of the OECD national contact points"
+        authors: ["Kari Otteburn"]
+        publisher: "International Journal of Human Rights, 29(8), 1410–1435"
+        releaseDate: 2025-01-01
+        url: "https://doi.org/10.1080/13642987.2025.2460185"
+      - title: "Institutional Transformations of Global Governance – Key Challenges for International Organisations"
+        authors: ["Jacint Jordana", "Adam Holesch", "Lewin Schmitt", "Charles Roger", "Alexandros Tokhi", "Kari Otteburn", "Saz-Carranza", "Marie Vandendriessche", "Michael Zürn", "David Coen", "David Levi-Faur", "Axel Marx"]
+        publisher: "International Review of Public Policy, 6(3)"
+        releaseDate: 2024-01-01
+        url: "https://doi.org/10.4000/13gfw"
+      - title: "Reaching the limit: access to remedy through nonjudicial mechanisms for victims of business-related human rights abuses"
+        authors: ["Kari Otteburn"]
+        publisher: International Journal of Human Rights
+        releaseDate: 2023-01-01
+        url: "https://doi.org/10.1080/13642987.2023.2251002"
+      - title: "All in favour? Indian business interests and the India-EU FTA"
+        authors: ["Kari Otteburn"]
+        publisher: Asia Europe Journal
+        releaseDate: 2023-01-01
+        url: "https://doi.org/10.1007/s10308-023-00672-y"
+      - title: "A Glass Half-Empty or Half-Full? An Assessment of the Labour Provisions in the CAI from Chinese and European Perspectives"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "Journal of World Investment and Trade, 23(4), 601-627 (Open Access)"
+        releaseDate: 2022-01-01
+        url: "https://doi.org/10.1163/22119000-12340262"
+      - title: "What role for regional organizations in goal-setting global governance? An analysis of the role of the European Union and ASEAN in the Sustainable Development Goals"
+        authors: ["Axel Marx", "Sukmawani Bela Pertiwi", "Charline Depoorter", "Michiel Hoornick", "Tirta Nugraha Mursitama", "Kari Otteburn", "Lili Yulyadi Arnakim"]
+        publisher: "Global Public Policy and Governance, 1, 421-445 (Open Access)"
+        releaseDate: 2021-01-01
+        url: "https://doi.org/10.1007/s43508-021-00027-6"
+      - title: "Surprising Reversal: Workers Obtain Remedy at the Belgian National Contact Point for the OECD Guidelines in Rare Agreement"
+        authors: ["Kari Otteburn"]
+        publisher: "International Labor Rights Case Law, 7(2), 136-138"
+        releaseDate: 2021-01-01
+        url: "https://doi.org/10.1163/24056901-07020003"
+      - title: "No Guidance at the Belgian OECD National Contact Point: Can Mediation Alone 'Further the Effectiveness of the Guidelines'?"
+        authors: ["Kari Otteburn"]
+        publisher: "International Labor Rights Case Law, 7(1), 33-38"
+        releaseDate: 2021-01-01
+        url: "https://doi.org/10.1163/24056901-07010007"
+      - title: "Europe-Asia Connectivities in Geopolitical Times"
+        authors: ["Kari Otteburn", "JeongHun Han", "Axel Marx (eds.)"]
+        publisher: "Palgrave Macmillan (edited volume)"
+        releaseDate: 2027-01-01
+      - title: "Research Handbook on Global Governance, Business and Human Rights"
+        authors: ["Axel Marx", "Geert Van Calster", "Jan Wouters", "Kari Otteburn", "Diana Lica (eds.)"]
+        publisher: "Cheltenham: Edward Elgar (edited volume)"
+        releaseDate: 2022-01-01
+      - title: "Corporate Sustainability and the EU Due Diligence Directive"
+        authors: ["Axel Marx", "Kari Otteburn", "Jan Wouters"]
+        publisher: "In L. Rubini (ed.), Research Handbook on Unilateral Measures in Trade, Investment and Economic Law. Edward Elgar (forthcoming)"
+        releaseDate: 2027-01-01
+      - title: "The International Labour Organization"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "In J. Chaisse, C. Hermann (Eds.), The International Law of Economic Integration. Oxford University Press"
+        releaseDate: 2025-01-01
+      - title: "From Formal Intergovernmental Organizations to Informal Law-Making and Intergovernmental Organizations"
+        authors: ["Kari Otteburn", "Axel Marx", "Jan Wouters"]
+        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance, Ch. 4. Edward Elgar"
+        releaseDate: 2025-01-01
+      - title: "The Challenges of Governing Sustainable Development Through Goals: Prioritization and Coordination in Europe and Southeast Asia"
+        authors: ["Bela Pertiwi", "Axel Marx", "Charline Depoorter", "Tirta Nugraha Mursitama", "Kari Otteburn", "Lili Yukyadi Arnakim"]
+        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance, Ch. 14. Edward Elgar"
+        releaseDate: 2025-01-01
+      - title: "Degrees of Remedy: Understanding Remedy Outcomes at the OECD National Contact Points"
+        authors: ["Kari Otteburn"]
+        publisher: "In O. Davaanyam, M. Krajewski (Eds.), Corporate Human Rights Responsibility in OECD Case Law. Springer (open access)"
+        releaseDate: 2025-01-01
+        url: "https://doi.org/10.1007/978-3-031-75717-4_6"
+      - title: "Seeking remedies for corporate human rights abuses: What is the contribution of OECD National Contact Points?"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "In A. Marx, G. Van Calster, J. Wouters, K. Otteburn, D. Lica (Eds.), Research Handbook on Global Governance, Business and Human Rights, Ch. 11 (229-253). Edward Elgar"
+        releaseDate: 2022-01-01
+        url: "https://doi.org/10.4337/9781788979832.00018"
+      - title: "Global Governance of Business and Human Rights: An Introduction"
+        authors: ["Axel Marx", "Kari Otteburn", "Diana Lica", "Geert Van Calster", "Jan Wouters"]
+        publisher: "In Research Handbook on Global Governance, Business and Human Rights, Ch. 1 (1-21). Edward Elgar"
+        releaseDate: 2022-01-01
+        url: "https://doi.org/10.4337/9781788979832.00008"
+      - title: "The global governance of development"
+        authors: ["Axel Marx", "Kari Otteburn"]
+        publisher: "In Handbook on the Politics of International Development, Ch. 6 (91-106). Edward Elgar"
+        releaseDate: 2022-01-01
+      - title: "Overcoming Transposition Challenges of the CSDDD, Some Best Practices (Policy Brief 2)"
+        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
+        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
+        releaseDate: 2026-01-01
+      - title: "Accompanying Measures (Policy Brief 3)"
+        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
+        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
+        releaseDate: 2026-01-01
+      - title: "Study on the operational implementation and transposition in Belgium of the Corporate Sustainability Due Diligence Directive (2024/1760) of the European Union"
+        authors: ["C. Bright", "K. Otteburn", "H. Huyse", "A. Marx"]
+        publisher: "Commissioned by the Federal Public Service Economy, Belgium"
+        releaseDate: 2025-01-01
+      - title: "Implementing the CSDDD: Lessons learnt from the comparative experiences (Policy Brief 1)"
+        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
+        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
+        releaseDate: 2025-01-01
+      - title: "Trends in Global Governance and Future Scenarios 2030"
+        authors: ["J. Jordana", "A. Saz", "A. Marx", "A. Holesch", "M. Vandendriessche", "D. Coen", "D. Levi-Faur", "C. Roger", "M. Zürn", "A. Tokhi", "K. Otteburn", "L. Schmitt", "C. Moreno Villar"]
+        publisher: "GLOBE Report, Institut Barcelona d'Estudis Internacionals"
+        releaseDate: 2023-01-01
+        url: "https://doi.org/10.31009/ibei.2023.01"
+      - title: "Multistakeholder Governance"
+        authors: ["C. Depoorter", "A. Marx", "K. Otteburn"]
+        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
+        releaseDate: 2021-01-01
+      - title: "Shortcomings of Current Governance and Institutional Models"
+        authors: ["K. Otteburn", "A. Marx"]
+        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
+        releaseDate: 2020-01-01
+      - title: "Mapping of the Trade and Development Global Regimes and Institutions"
+        authors: ["A. Marx", "K. Otteburn", "V. Hegde", "et al."]
+        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
+        releaseDate: 2019-01-01
+      - title: "Review: Vigilantes Beyond Borders: NGOs as Enforcers of International Law, by Mette Eilstrup-Sangiovanni and J.C. Sharman"
+        authors: ["Kari Otteburn"]
+        publisher: "Revue critique de droit international privé"
+        releaseDate: 2025-01-01
+      - title: "Seeking Corporate Accountability: Progress and Pitfalls of Mandatory Due Diligence"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "EU-RENEW Blog"
+        releaseDate: 2023-01-01
+      - title: "Open, sustainable and assertive... and incremental: Assessing labour provisions in the CAI"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "EU-RENEW Blog"
+        releaseDate: 2023-01-01
+      - title: "The OECD National Contact Points: A Promising External Regulator for Voluntary Sustainability Standards?"
+        authors: ["Kari Otteburn"]
+        publisher: "Nova School of International Law Blog"
+        releaseDate: 2021-01-01
+      - title: "Potential and Limitations of VSS as Global Governance Instruments. Insights from a case study of forest certification"
+        authors: ["Charline Depoorter", "Axel Marx", "Kari Otteburn"]
+        publisher: "GLOBE Blog"
+        releaseDate: 2021-01-01
+      - title: "Development for what? The evolving objectives of global development governance"
+        authors: ["Kari Otteburn"]
+        publisher: "GLOBE Blog"
+        releaseDate: 2020-01-01
+      - title: "The changing face of global trade"
+        authors: ["Kari Otteburn"]
+        publisher: "GLOBE Blog"
+        releaseDate: 2020-01-01
+
+    Awards:
+      - title: "BICC&I and Emirates Scriptum Award for Best Master's Thesis"
+        awarder: BICC&I and Emirates
+        date: 2019-01-01
+      - title: University Immersion Program Scholarship
+        awarder: Sichuan University
+        date: 2018-01-01
+      - title: Hindi Language Fellowship
+        awarder: American Institute of Indian Studies
+        date: 2009-01-01
+        summary: "AY 2009-2010"
+      - title: "Award for 'Best Research Project'"
+        awarder: American Institute of Indian Studies
+        date: 2010-01-01
+      - title: "Donald R. Koehn Memorial Award for 'Excellence in the Humanities'"
+        awarder: Illinois Wesleyan University
+        date: 2009-01-01
+      - title: Critical Language Scholarship
+        awarder: "Council of American Overseas Research Centers and U.S. Department of State"
+        date: 2008-01-01
+      - title: Technos International Scholarship
+        awarder: Tanaka Foundation
+        date: 2007-01-01
+
+    Certificates:
+      - name: Process Tracing
+        issuer: ECPR Winter School
+        date: 2021-01-01
+      - name: Qualitative Comparative Analysis
+        issuer: ECPR Winter School
+        date: 2021-01-01
+      - name: Introduction to R
+        issuer: FLAMES
+        date: 2021-01-01
+      - name: Method in Data Collection
+        issuer: FLAMES
+        date: 2021-01-01
+      - name: Using NVIVO for qualitative data analysis
+        issuer: FLAMES
+        date: 2020-01-01
+
+    Languages:
+      - name: English
+        summary: Native
+      - name: Hindi
+        summary: Professional proficiency
+      - name: French
+        summary: Professional proficiency
+      - name: Urdu
+        summary: Intermediate
+      - name: Dutch
+        summary: Basic
