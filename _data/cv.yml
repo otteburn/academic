@@ -1,189 +1,400 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Dr. Kari Otteburn
+  label: Senior Researcher, International Political Economy
+  email: kari.otteburn@kuleuven.be
+  location: Brussels, Belgium
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    International political economist specializing in private and informal
+    governance, EU trade and regulatory policy, business and human rights, access to
+    remedy, multi-stakeholder governance, and corporate accountability and due
+    diligence regulation.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
+    - network: ORCID
+      username: "0000-0002-5938-7057"
     - network: LinkedIn
-      username: example
+       username: https://www.linkedin.com/in/kariirwin/
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Brussels
+    countryCode: BE
 
   sections:
+    Current Position:
+      - company: Leuven Centre for Global Governance Studies, KU Leuven
+        position: Senior Researcher (Post-Doctoral Fellow)
+        location: Leuven / Brussels, Belgium
+        start_date: 2024-09
+        end_date: present
+        summary: >
+          Full-time position researching corporate accountability, global sustainability
+          and global economic governance, EU trade and regulatory policy, and
+          transnational private authority.
+        highlights:
+          - "Lead researcher, FWO-funded project on due diligence implementation (MEDIATE, 2024-2028)"
+          - "Member of coordination team, Jean Monnet Network on transatlantic engagement (TANDEM, 2026-29)"
+          - "Member of coordination team, Jean Monnet Network on EU external action (EU-RENEW, 2023-2026)"
+
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: KU Leuven
+        location: Belgium
+        area: Faculty of Social Sciences
+        studyType: Ph.D.
+        start_date: 2018-09
+        end_date: 2024-09
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+          - "Dissertation: 'To the Whetstone or the Drawing Board? Access to Remedy for Extraterritorial Business-Related Human Rights Violations'"
+          - "Supervision: Prof. Dr. Kolja Raube, Dr. Axel Marx (co-supervisor)"
+          - "Jury: Prof. Dr. Claire Bright (NOVA School of Law), Dr. Alice Evans (King's College London), Prof. Dr. Huib Huyse (KU Leuven), Prof. Dr. Geert Van Calster (KU Leuven)"
+      - institution: KU Leuven
+        location: Belgium
+        area: "European Studies (Module: Asia-Europe Interactions and Comparisons)"
+        studyType: M.A.
+        start_date: 2017-09
+        end_date: 2018
+        score: Magna cum laude
         highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+          - "Thesis: 'The Elephant in the Room: Indian Business Perceptions of the India-EU Bilateral Trade and Investment Agreement'"
+      - institution: Illinois Wesleyan University
+        location: United States
+        area: (South Asian) Religion
+        studyType: B.A.
+        start_date: 2005-08
+        end_date: 2009-05
+        score: Magna cum laude, with research honors
         highlights:
-          - Relativity
-          - Description 2.
+          - "Honors Thesis: 'A Place of Paramount Peace: The Unofficial Hindu Nationalism of an Officially Peaceful Movement'"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+    Teaching Experience:
+      - company: Faculty of Social Sciences, KU Leuven
+        position: "Lecturer (Course Coordinator and Instructor) — Global Environmental Politics (6 ECTS)"
+        location: Leuven, Belgium
+        start_date: 2025
+        end_date: 2026
+        summary: >
+          Master's-level course taught across five graduate programmes (Master of Advanced
+          Studies in European Policies and Public Administration, Master of European
+          Studies: Transnational and Global Perspectives, Master of International Politics,
+          Master in de politieke wetenschappen, Master of Cultural Anthropology and
+          Development Studies, Master of Geography). Covers global governance institutions,
+          international environmental agreements, multi-stakeholder processes, and policy
+          implementation challenges.
+      - company: Irish College Leuven
+        position: "Lecturer (ad hoc) — EU Policymaking and EU Trade"
+        location: Leuven, Belgium
+        start_date: 2022
+        end_date: present
+        summary: >
+          Regularly deliver stand-alone lectures to study abroad students on EU
+          Institutions and Decision-Making, EU Trade Policy, and EU Autonomous Measures:
+          Geopolitics and Evolving Priorities.
+      - company: Faculty of Social Sciences, KU Leuven
+        position: "Teaching Assistant — EU Trade Policy (6 ECTS)"
+        location: Leuven, Belgium
+        start_date: 2019-01
+        end_date: 2021-05
+        summary: >
+          Taught seminars on EU trade agreements, trade and sustainable development
+          chapters, private governance, and EU trade policy-making processes. Supervised
+          student research projects on EU trade negotiations and implementation.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    Guest Lectures:
+      - title: "The EU and Global Trade Governance: Between Values and Interests in Geopolitical Times"
+        authors: ["Euro-Asia Summer School, Barcelona"]
+        releaseDate: 2025-09
+      - title: "Fitting Values into Strategic Autonomy: The EU in the Promotion of Human and Labour Rights Beyond Borders"
+        authors: ["Euro-Asia Summer School, Barcelona"]
+        releaseDate: 2025-09
+      - title: "International Organizations: Internal Challenges, External Shocks and Rising Informality"
+        authors: ["University of Georgia Law Global Governance Summer School"]
+        releaseDate: 2025-05
+      - title: "Qualitative Analysis and Process Tracing"
+        authors: ["M.A. European Studies, KU Leuven"]
+        releaseDate: "2020-2023 (annual)"
+      - title: "Global Governance of Trade: Voluntary Governmental Rules and Business and Human Rights"
+        authors: ["International Law and Global Governance Summer School"]
+        releaseDate: 2023-05
+      - title: "Global Governance of Trade: Voluntary Governmental Rules"
+        authors: ["M.A. European Studies, KU Leuven"]
+        releaseDate: "2019-2022 (annual)"
+      - title: "The EU as a Trade Power in a Global Non-Trade Moment: Recent Developments in Interactions with South Asia"
+        authors: ["ETEE Winter School"]
+        releaseDate: 2020-10
+      - title: "European and South Asian Regionalism"
+        authors: ["M.A. European Studies, KU Leuven"]
+        releaseDate: "2019, 2020, 2021"
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+    Recent Speaking Engagements:
+      - company: Oxfam Coalition Meeting
+        position: "Invited speaker: Institutional Design of Supervisory Authorities for the CSDDD"
+        start_date: 2026-09
+        end_date: 2026-09
+      - company: OECD Responsible Business Conduct Forum
+        position: "Invited speaker: The role of OECD National Contact Points in Access to Remedy"
+        start_date: 2026-06
+        end_date: 2026-07
+      - company: "ETUC – ETUI Seminar on a New Labour-Centred Trade Paradigm"
+        position: "Invited speaker: Making Trade Work for Labour and Sustainability in a Geopolitical World"
+        start_date: 2026-06
+        end_date: 2026-06
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+    Research Funding and Projects:
+      - title: "FWO SBO Project: 'Moderating due diligence through intermediary engagement' (MEDIATE)"
+        authors: ["Research Foundation Flanders (FWO)"]
+        releaseDate: "2024-2028"
+        summary: >
+          Co-first author of successful research proposal for Strategic Basic Research
+          funding. Lead researcher examining the role of intermediaries (government
+          agencies, consulting firms, voluntary sustainability standards, trade unions,
+          and others) in implementing mandatory due diligence legislation. Member of
+          project coordination team managing multi-partner research consortium and
+          multi-stakeholder advisory council.
+      - title: "Jean Monnet Network: 'Transatlantic Network for Dialogue, Education and Multidisciplinary Research' (TANDEM)"
+        authors: ["Jean Monnet"]
+        releaseDate: "2026-2029"
+        summary: >
+          Member of project management team; network contributor examining EU-US
+          engagement on trade and sustainability governance.
+      - title: "Jean Monnet Policy Debate Network: 'EU Research and Education Network on Europe in the World' (EU-RENEW)"
+        authors: ["Jean Monnet"]
+        releaseDate: "2023-2026"
+        summary: >
+          Co-Manager of network involving 15+ institutions across Europe. Coordinated
+          network research outputs and multi-stakeholder dialogues. Co-edited open-access
+          textbook Europe in the World and co-developed a Massive Open Online Course on
+          EU External Affairs. Managed network communications and stakeholder engagement.
+      - title: "Jean Monnet Network: 'EU Research and Education Network on Foreign Policy Issues: Values and Democracy' (EU-VALUES)"
+        authors: ["Jean Monnet"]
+        releaseDate: "2024-2027"
+        summary: "Network contributor; member of coordination team."
+      - title: "EU H2020 Project: 'The European Union and the Future of the Global Governance – Future Trends and Scenarios' (GLOBE)"
+        authors: ["Horizon 2020"]
+        releaseDate: "2019-2022"
+        summary: >
+          Lead researcher for work packages on Trade and Sustainable Development and on
+          Innovative Governance Models. Lead coordinator for the Dissemination work
+          package. Conducted comparative institutional analysis across multiple global
+          governance regimes and contributed to the final report projecting future
+          scenarios for international organizations.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    Peer-Reviewed Journal Articles:
+      - title: "How due diligence transforms private sustainability governance: The case of the Global Organic Textile Standard"
+        authors: ["Axel Marx", "Kari Otteburn (co-first authors)"]
+        publisher: Global Policy
+        releaseDate: 2026
+        url: "http://doi.org/10.1111/1758-5899.70188"
+      - title: "Pathways to remedy for corporate human rights abuse: a qualitative comparative analysis of the institutional design of the OECD national contact points"
+        authors: ["Kari Otteburn"]
+        publisher: "International Journal of Human Rights, 29(8), 1410–1435"
+        releaseDate: 2025
+        url: "https://doi.org/10.1080/13642987.2025.2460185"
+      - title: "Institutional Transformations of Global Governance – Key Challenges for International Organisations"
+        authors: ["Jacint Jordana", "Adam Holesch", "Lewin Schmitt", "Charles Roger", "Alexandros Tokhi", "Kari Otteburn", "Saz-Carranza", "Marie Vandendriessche", "Michael Zürn", "David Coen", "David Levi-Faur", "Axel Marx"]
+        publisher: "International Review of Public Policy, 6(3)"
+        releaseDate: 2024
+        url: "https://doi.org/10.4000/13gfw"
+      - title: "Reaching the limit: access to remedy through nonjudicial mechanisms for victims of business-related human rights abuses"
+        authors: ["Kari Otteburn"]
+        publisher: International Journal of Human Rights
+        releaseDate: 2023
+        url: "https://doi.org/10.1080/13642987.2023.2251002"
+      - title: "All in favour? Indian business interests and the India-EU FTA"
+        authors: ["Kari Otteburn"]
+        publisher: Asia Europe Journal
+        releaseDate: 2023
+        url: "https://doi.org/10.1007/s10308-023-00672-y"
+      - title: "A Glass Half-Empty or Half-Full? An Assessment of the Labour Provisions in the CAI from Chinese and European Perspectives"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "Journal of World Investment and Trade, 23(4), 601-627 (Open Access)"
+        releaseDate: 2022
+        url: "https://doi.org/10.1163/22119000-12340262"
+      - title: "What role for regional organizations in goal-setting global governance? An analysis of the role of the European Union and ASEAN in the Sustainable Development Goals"
+        authors: ["Axel Marx", "Sukmawani Bela Pertiwi", "Charline Depoorter", "Michiel Hoornick", "Tirta Nugraha Mursitama", "Kari Otteburn", "Lili Yulyadi Arnakim"]
+        publisher: "Global Public Policy and Governance, 1, 421-445 (Open Access)"
+        releaseDate: 2021
+        url: "https://doi.org/10.1007/s43508-021-00027-6"
+      - title: "Surprising Reversal: Workers Obtain Remedy at the Belgian National Contact Point for the OECD Guidelines in Rare Agreement"
+        authors: ["Kari Otteburn"]
+        publisher: "International Labor Rights Case Law, 7(2), 136-138"
+        releaseDate: 2021
+        url: "https://doi.org/10.1163/24056901-07020003"
+      - title: "No Guidance at the Belgian OECD National Contact Point: Can Mediation Alone 'Further the Effectiveness of the Guidelines'?"
+        authors: ["Kari Otteburn"]
+        publisher: "International Labor Rights Case Law, 7(1), 33-38"
+        releaseDate: 2021
+        url: "https://doi.org/10.1163/24056901-07010007"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    Edited Volumes:
+      - title: "Europe-Asia Connectivities in Geopolitical Times"
+        authors: ["Kari Otteburn", "JeongHun Han", "Axel Marx (eds.)"]
+        publisher: Palgrave Macmillan
+        releaseDate: "forthcoming January 2027"
+      - title: "Research Handbook on Global Governance, Business and Human Rights"
+        authors: ["Axel Marx", "Geert Van Calster", "Jan Wouters", "Kari Otteburn", "Diana Lica (eds.)"]
+        publisher: "Cheltenham: Edward Elgar"
+        releaseDate: 2022
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Book Chapters:
+      - title: "Corporate Sustainability and the EU Due Diligence Directive"
+        authors: ["Axel Marx", "Kari Otteburn", "Jan Wouters"]
+        publisher: "In L. Rubini (ed.), Research Handbook on Unilateral Measures in Trade, Investment and Economic Law. Edward Elgar"
+        releaseDate: forthcoming
+      - title: "The International Labour Organization"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "In J. Chaisse, C. Hermann (Eds.), The International Law of Economic Integration. Oxford University Press"
+        releaseDate: 2025
+      - title: "From Formal Intergovernmental Organizations to Informal Law-Making and Intergovernmental Organizations"
+        authors: ["Kari Otteburn", "Axel Marx", "Jan Wouters"]
+        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance, Ch. 4. Edward Elgar"
+        releaseDate: 2025
+      - title: "The Challenges of Governing Sustainable Development Through Goals: Prioritization and Coordination in Europe and Southeast Asia"
+        authors: ["Bela Pertiwi", "Axel Marx", "Charline Depoorter", "Tirta Nugraha Mursitama", "Kari Otteburn", "Lili Yukyadi Arnakim"]
+        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance, Ch. 14. Edward Elgar"
+        releaseDate: 2025
+      - title: "Degrees of Remedy: Understanding Remedy Outcomes at the OECD National Contact Points"
+        authors: ["Kari Otteburn"]
+        publisher: "In O. Davaanyam, M. Krajewski (Eds.), Corporate Human Rights Responsibility in OECD Case Law. Springer (open access)"
+        releaseDate: 2025
+        url: "https://doi.org/10.1007/978-3-031-75717-4_6"
+      - title: "Seeking remedies for corporate human rights abuses: What is the contribution of OECD National Contact Points?"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "In A. Marx, G. Van Calster, J. Wouters, K. Otteburn, D. Lica (Eds.), Research Handbook on Global Governance, Business and Human Rights, Ch. 11 (229-253). Edward Elgar"
+        releaseDate: 2022
+        url: "https://doi.org/10.4337/9781788979832.00018"
+      - title: "Global Governance of Business and Human Rights: An Introduction"
+        authors: ["Axel Marx", "Kari Otteburn", "Diana Lica", "Geert Van Calster", "Jan Wouters"]
+        publisher: "In Research Handbook on Global Governance, Business and Human Rights, Ch. 1 (1-21). Edward Elgar"
+        releaseDate: 2022
+        url: "https://doi.org/10.4337/9781788979832.00008"
+      - title: "The global governance of development"
+        authors: ["Axel Marx", "Kari Otteburn"]
+        publisher: "In Handbook on the Politics of International Development, Ch. 6 (91-106). Edward Elgar"
+        releaseDate: 2022
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    Commissioned Reports and Policy Briefs:
+      - title: "Overcoming Transposition Challenges of the CSDDD, Some Best Practices (Policy Brief 2)"
+        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
+        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
+        releaseDate: 2026
+      - title: "Accompanying Measures (Policy Brief 3)"
+        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
+        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
+        releaseDate: 2026
+      - title: "Study on the operational implementation and transposition in Belgium of the Corporate Sustainability Due Diligence Directive (2024/1760) of the European Union"
+        authors: ["C. Bright", "K. Otteburn", "H. Huyse", "A. Marx"]
+        publisher: "Commissioned by the Federal Public Service Economy, Belgium"
+        releaseDate: 2025
+      - title: "Implementing the CSDDD: Lessons learnt from the comparative experiences (Policy Brief 1)"
+        authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
+        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
+        releaseDate: 2025
+      - title: "Trends in Global Governance and Future Scenarios 2030"
+        authors: ["J. Jordana", "A. Saz", "A. Marx", "A. Holesch", "M. Vandendriessche", "D. Coen", "D. Levi-Faur", "C. Roger", "M. Zürn", "A. Tokhi", "K. Otteburn", "L. Schmitt", "C. Moreno Villar"]
+        publisher: "GLOBE Report, Institut Barcelona d'Estudis Internacionals"
+        releaseDate: 2023
+        url: "https://doi.org/10.31009/ibei.2023.01"
+      - title: "Multistakeholder Governance"
+        authors: ["C. Depoorter", "A. Marx", "K. Otteburn"]
+        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
+        releaseDate: 2021
+      - title: "Shortcomings of Current Governance and Institutional Models"
+        authors: ["K. Otteburn", "A. Marx"]
+        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
+        releaseDate: 2020
+      - title: "Mapping of the Trade and Development Global Regimes and Institutions"
+        authors: ["A. Marx", "K. Otteburn", "V. Hegde", "et al."]
+        publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
+        releaseDate: 2019
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Other Publications:
+      - title: "Review: Vigilantes Beyond Borders: NGOs as Enforcers of International Law, by Mette Eilstrup-Sangiovanni and J.C. Sharman"
+        authors: ["Kari Otteburn"]
+        publisher: "Revue critique de droit international privé"
+        releaseDate: 2025
+      - title: "Seeking Corporate Accountability: Progress and Pitfalls of Mandatory Due Diligence"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "EU-RENEW Blog"
+        releaseDate: 2023
+      - title: "Open, sustainable and assertive... and incremental: Assessing labour provisions in the CAI"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "EU-RENEW Blog"
+        releaseDate: 2023
+      - title: "The OECD National Contact Points: A Promising External Regulator for Voluntary Sustainability Standards?"
+        authors: ["Kari Otteburn"]
+        publisher: "Nova School of International Law Blog"
+        releaseDate: 2021
+      - title: "Potential and Limitations of VSS as Global Governance Instruments. Insights from a case study of forest certification"
+        authors: ["Charline Depoorter", "Axel Marx", "Kari Otteburn"]
+        publisher: "GLOBE Blog"
+        releaseDate: 2021
+      - title: "Development for what? The evolving objectives of global development governance"
+        authors: ["Kari Otteburn"]
+        publisher: "GLOBE Blog"
+        releaseDate: 2020
+      - title: "The changing face of global trade"
+        authors: ["Kari Otteburn"]
+        publisher: "GLOBE Blog"
+        releaseDate: 2020
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Fellowships, Awards, and Scholarships:
+      - title: "BICC&I and Emirates Scriptum Award for Best Master's Thesis"
+        awarder: BICC&I and Emirates
+        date: 2019
+      - title: "University Immersion Program Scholarship"
+        awarder: Sichuan University
+        date: 2018
+      - title: "Hindi Language Fellowship"
+        awarder: American Institute of Indian Studies
+        date: "AY 2009-2010"
+      - title: "Award for 'Best Research Project'"
+        awarder: American Institute of Indian Studies
+        date: 2010
+      - title: "Donald R. Koehn Memorial Award for 'Excellence in the Humanities'"
+        awarder: Illinois Wesleyan University
+        date: 2009
+      - title: Critical Language Scholarship
+        awarder: "Council of American Overseas Research Centers and U.S. Department of State"
+        date: 2008
+      - title: Technos International Scholarship
+        awarder: Tanaka Foundation
+        date: 2007
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Additional Methodological Training:
+      - name: Process Tracing
+        summary: ECPR Winter School, 2021
+      - name: Qualitative Comparative Analysis
+        summary: ECPR Winter School, 2021
+      - name: Introduction to R
+        summary: FLAMES, 2021
+      - name: Method in Data Collection
+        summary: FLAMES, 2021
+      - name: Using NVIVO for qualitative data analysis
+        summary: FLAMES, 2020
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: Native
+      - name: French
+        summary: Professional proficiency
+      - name: Hindi
+        summary: Intermediate
+      - name: Urdu
+        summary: Intermediate
+      - name: Dutch
+        summary: Basic
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Previous Academic Positions:
+      - company: Leuven Centre for Global Governance Studies, KU Leuven
+        position: Junior Research Fellow
+        location: Leuven, Belgium
+        start_date: 2018-10
+        end_date: 2024-09
+        summary: >
+          Conducted research on EU trade policy, global governance institutions, and
+          corporate accountability mechanisms. Member of research team for H2020 Project
+          GLOBE (2019-2022), with a leading role for Work Packages on Trade and
+          Sustainable Development and on Innovative Governance Models. Responsible for
+          communication, dissemination, and exploitation strategy for EU H2020 Project
+          RECONNECT (2018-2022), which received special recognition by the European
+          Commission. Junior member of coordination team.
