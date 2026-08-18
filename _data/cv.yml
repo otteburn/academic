@@ -2,13 +2,10 @@ cv:
   name: Dr. Kari Otteburn
   label: Senior Researcher, International Political Economy
   email: kari.otteburn@kuleuven.be
-  location: Brussels, Belgium
+  location: Brussels
   image: ""
   summary: >
-    International political economist specializing in private and informal governance,
-    EU trade and regulatory policy, business and human rights, access to remedy,
-    multi-stakeholder governance, and corporate accountability and due diligence
-    regulation.
+    International political economist specializing in corporate accountability, sustainability governance, and business and human rights. Research focus on trade and investment policy, global economic cooperation, private and informal governance, and non-judicial grievance mechanisms.  
 
   social_networks:
     - network: ORCID
@@ -41,21 +38,22 @@ cv:
         end_date: 2018
         score: Magna cum laude
         highlights:
-          - "Thesis: 'The Elephant in the Room: Indian Business Perceptions of the India-EU Bilateral Trade and Investment Agreement'"
+          - "Magna cum laude"
+	  - "Thesis: 'The Elephant in the Room: Indian Business Perceptions of the India-EU Bilateral Trade and Investment Agreement'"
       - institution: Illinois Wesleyan University
         location: United States
         area: "(South Asian) Religion"
         studyType: B.A.
         start_date: 2005-08
         end_date: 2009-05
-        score: Magna cum laude, with research honors
         highlights:
-          - "Honors Thesis: 'A Place of Paramount Peace: The Unofficial Hindu Nationalism of an Officially Peaceful Movement'"
+          - "Magna cum laude, with research honors"
+	  - "Honors Thesis: 'A Place of Paramount Peace: The Unofficial Hindu Nationalism of an Officially Peaceful Movement'"
 
     Experience:
       - company: Leuven Centre for Global Governance Studies, KU Leuven
         position: Senior Researcher (Post-Doctoral Fellow)
-        location: Leuven / Brussels, Belgium
+        location: Leuven, Belgium
         start_date: 2024-09
         end_date: present
         summary: >
@@ -69,6 +67,21 @@ cv:
           - "Invited speaker, Oxfam Coalition Meeting (Sept 2026): Institutional Design of Supervisory Authorities for the CSDDD"
           - "Invited speaker, OECD Responsible Business Conduct Forum (June-July 2026): The role of OECD National Contact Points in Access to Remedy"
           - "Invited speaker, ETUC-ETUI Seminar on a New Labour-Centred Trade Paradigm (June 2026): Making Trade Work for Labour and Sustainability in a Geopolitical World"
+      - company: "Guest Lecturer, Various Institutions"
+        position: "EU Policymaking, Trade Policy, and Global Governance"
+        location: Europe
+        start_date: 2019
+        end_date: present
+        summary: >
+          Regularly deliver guest lectures and stand-alone sessions on EU institutions,
+          trade policy, and global governance topics for study abroad programmes,
+          summer schools, and graduate courses.
+        highlights:
+          - "Irish College Leuven (2022-present): EU Institutions and Decision-Making, EU Trade Policy, EU Autonomous Measures"
+          - "Euro-Asia Summer School, Barcelona (Sept 2025): The EU and Global Trade Governance; Fitting Values into Strategic Autonomy"
+          - "University of Georgia Law Global Governance Summer School (May 2025): International Organizations"
+          - "International Law and Global Governance Summer School (May 2023): Global Governance of Trade"
+          - "ETEE Winter School (Oct 2020): The EU as a Trade Power in a Global Non-Trade Moment"
       - company: Faculty of Social Sciences, KU Leuven
         position: "Lecturer (Course Coordinator and Instructor) — Global Environmental Politics (6 ECTS)"
         location: Leuven, Belgium
@@ -82,20 +95,6 @@ cv:
           Development Studies, Master of Geography). Covers global governance institutions,
           international environmental agreements, multi-stakeholder processes, and policy
           implementation challenges.
-      - company: Guest Lecturer, various institutions
-        position: "EU Policymaking, Trade Policy, and Global Governance"
-        location: Europe
-        start_date: 2019
-        end_date: present
-        summary: >
-          Regularly deliver guest lectures and stand-alone sessions on EU institutions, EU external action,
-          trade policy, and global governance topics for study abroad programmes,
-          summer schools, and graduate courses.
-        highlights:
-          - "Irish College Leuven (2022–present): EU Institutions and Decision-Making, EU Trade Policy, EU Autonomous Measures"
-          - "Euro-Asia Summer School, Barcelona (2025 - present): The EU and Global Trade Governance; Fitting Values into Strategic Autonomy"
-          - "University of Georgia Law Global Governance Summer School (May 2023 - present): International Organizations and Rising Informality, Business and Human Rights, Global Governance of Trade"
-          - "ETEE Winter School (Oct 2020): The EU as a Trade Power in a Global Non-Trade Moment"
       - company: Master of European Studies, KU Leuven
         position: "Teaching Assistant — EU Trade Policy (6 ECTS)"
         location: Leuven, Belgium
@@ -169,6 +168,19 @@ cv:
         publisher: "International Journal of Human Rights, 29(8), 1410–1435"
         releaseDate: 2025-01-01
         url: "https://doi.org/10.1080/13642987.2025.2460185"
+      - title: "Designed for different times? Institutional challenges of international organisations and the rise of informality"
+        authors: ["Kari Irwin Otteburn", "Axel Marx"]
+        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance: Shifting Dynamics in a Turbulent World, Ch. 4 (65-85). Edward Elgar, Cheltenham"
+        releaseDate: 2025-01-01
+      - title: "The International Labour Organization"
+        authors: ["Kari Otteburn", "Axel Marx"]
+        publisher: "In J. Chaisse, C. Herrmann (Eds.), The International Law of Economic Integration, Ch. 14 (212-229). Oxford Law Pro, Oxford University Press"
+        releaseDate: 2025-01-01
+        url: "https://doi.org/10.1093/law/9780192871626.003.0014"
+      - title: "The challenges of governing sustainable development through goals: prioritization and coordination in Europe and Southeast Asia"
+        authors: ["Sukmawani Bela Pertiwi", "Axel Marx", "Charline Depoorter", "Kari Irwin Otteburn", "Tirta Nugraha Mursitama", "Lili Yulyadi Arnakim"]
+        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance: Shifting Dynamics in a Turbulent World, Ch. 14 (263-281). Edward Elgar, Cheltenham"
+        releaseDate: 2025-01-01
       - title: "Institutional Transformations of Global Governance – Key Challenges for International Organisations"
         authors: ["Jacint Jordana", "Adam Holesch", "Lewin Schmitt", "Charles Roger", "Alexandros Tokhi", "Kari Otteburn", "Saz-Carranza", "Marie Vandendriessche", "Michael Zürn", "David Coen", "David Levi-Faur", "Axel Marx"]
         publisher: "International Review of Public Policy, 6(3)"
@@ -210,29 +222,16 @@ cv:
         releaseDate: 2027-01-01
       - title: "Research Handbook on Global Governance, Business and Human Rights"
         authors: ["Axel Marx", "Geert Van Calster", "Jan Wouters", "Kari Otteburn", "Diana Lica (eds.)"]
-        publisher: "Cheltenham: Edward Elgar (edited volume)"
+        publisher: "Cheltenham: Edward Elgar, Research Handbooks on Globalisation and the Law series (edited volume)"
         releaseDate: 2022-01-01
       - title: "Corporate Sustainability and the EU Due Diligence Directive"
         authors: ["Axel Marx", "Kari Otteburn", "Jan Wouters"]
         publisher: "In L. Rubini (ed.), Research Handbook on Unilateral Measures in Trade, Investment and Economic Law. Edward Elgar (forthcoming)"
         releaseDate: 2027-01-01
-      - title: "The International Labour Organization"
-        authors: ["Kari Otteburn", "Axel Marx"]
-        publisher: "In J. Chaisse, C. Hermann (Eds.), The International Law of Economic Integration. Oxford University Press"
-        releaseDate: 2025-01-01
-      - title: "From Formal Intergovernmental Organizations to Informal Law-Making and Intergovernmental Organizations"
-        authors: ["Kari Otteburn", "Axel Marx", "Jan Wouters"]
-        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance, Ch. 4. Edward Elgar"
-        releaseDate: 2025-01-01
-      - title: "The Challenges of Governing Sustainable Development Through Goals: Prioritization and Coordination in Europe and Southeast Asia"
-        authors: ["Bela Pertiwi", "Axel Marx", "Charline Depoorter", "Tirta Nugraha Mursitama", "Kari Otteburn", "Lili Yukyadi Arnakim"]
-        publisher: "In J. Jordana, A. Marx, M. Vandendriessche, J. Wouters (Eds.), Institutions of Global Governance, Ch. 14. Edward Elgar"
-        releaseDate: 2025-01-01
       - title: "Degrees of Remedy: Understanding Remedy Outcomes at the OECD National Contact Points"
-        authors: ["Kari Otteburn"]
-        publisher: "In O. Davaanyam, M. Krajewski (Eds.), Corporate Human Rights Responsibility in OECD Case Law. Springer (open access)"
+        authors: ["Kari Irwin Otteburn"]
+        publisher: "In O. Davaanyam, M. Krajewski (Eds.), Exploring Corporate Human Rights Responsibilities in OECD Case Law, Ch. 6 (103-133). Springer, Interdisciplinary Studies in Human Rights, vol. 14 (open access)"
         releaseDate: 2025-01-01
-        url: "https://doi.org/10.1007/978-3-031-75717-4_6"
       - title: "Seeking remedies for corporate human rights abuses: What is the contribution of OECD National Contact Points?"
         authors: ["Kari Otteburn", "Axel Marx"]
         publisher: "In A. Marx, G. Van Calster, J. Wouters, K. Otteburn, D. Lica (Eds.), Research Handbook on Global Governance, Business and Human Rights, Ch. 11 (229-253). Edward Elgar"
@@ -240,29 +239,38 @@ cv:
         url: "https://doi.org/10.4337/9781788979832.00018"
       - title: "Global Governance of Business and Human Rights: An Introduction"
         authors: ["Axel Marx", "Kari Otteburn", "Diana Lica", "Geert Van Calster", "Jan Wouters"]
-        publisher: "In Research Handbook on Global Governance, Business and Human Rights, Ch. 1 (1-21). Edward Elgar"
+        publisher: "In Research Handbook on Global Governance, Business and Human Rights, Ch. 1 (1-20). Edward Elgar"
         releaseDate: 2022-01-01
         url: "https://doi.org/10.4337/9781788979832.00008"
       - title: "The global governance of development"
         authors: ["Axel Marx", "Kari Otteburn"]
-        publisher: "In Handbook on the Politics of International Development, Ch. 6 (91-106). Edward Elgar"
+        publisher: "In M. Deciancio, P. Nemiña, D. Tussie (Eds.), Handbook on the Politics of International Development, Ch. 6 (91-106). Edward Elgar"
         releaseDate: 2022-01-01
-      - title: "Overcoming Transposition Challenges of the CSDDD, Some Best Practices (Policy Brief 2)"
+        url: "https://doi.org/10.4337/9781839101915.00014"
+      - title: "Overcoming Transposition Challenges of the CSDDD, Some Best Practices. Policy Brief 2. Transposing the CSDDD – Navigating Legal Uncertainties amidst the Omnibus proposal and Implementation Challenges"
         authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
         publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
-        releaseDate: 2026-01-01
-      - title: "Accompanying Measures (Policy Brief 3)"
+        releaseDate: 2025-07-01
+        url: "https://www.biicl.org/documents/12764_panel_2_summary_final_branded_.pdf"
+      - title: "Accompanying Measures. Policy Brief 3. Transposing the CSDDD – Navigating Legal Uncertainties amidst the Omnibus proposal and Implementation Challenges"
         authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
         publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
-        releaseDate: 2026-01-01
+        releaseDate: 2025-07-01
+        url: "https://www.biicl.org/documents/12781_panel_3_summary_final_branded_.pdf"
       - title: "Study on the operational implementation and transposition in Belgium of the Corporate Sustainability Due Diligence Directive (2024/1760) of the European Union"
         authors: ["C. Bright", "K. Otteburn", "H. Huyse", "A. Marx"]
         publisher: "Commissioned by the Federal Public Service Economy, Belgium"
         releaseDate: 2025-01-01
-      - title: "Implementing the CSDDD: Lessons learnt from the comparative experiences (Policy Brief 1)"
+      - title: "Implementing the CSDDD: Lessons learnt from the comparative experiences. Policy Brief 1. Transposing the CSDDD – Navigating Legal Uncertainties amidst the Omnibus proposal and Implementation Challenges"
         authors: ["C. Bright", "J. Elliott", "S. Gonzalez De Aguinaga", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli"]
         publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA"
-        releaseDate: 2025-01-01
+        releaseDate: 2025-07-01
+        url: "https://www.biicl.org/documents/12762_panel_1_summary_final_branded.pdf"
+      - title: "From Transposition to Transformation: Designing and Enforcing Effective National HREDD Laws"
+        authors: ["C. Bright", "J. Elliott", "A. Ganser", "S. Gonzalez De Aguinaga", "M. Hylander", "H. Huyse", "A. Marx", "K. Otteburn", "I. Pietropaoli", "A. Rühmkorf", "O. Uvarova"]
+        publisher: "NOVA Centre on Business, Human Rights and the Environment / BIICL / Leuven Centre for Global Governance Studies / HIVA / Westfälische Hochschule / Global Rights Compliance"
+        releaseDate: 2026-06-01
+        url: "https://www.biicl.org/documents/208_lisbon_policy_brief_formatted_final.pdf"
       - title: "Trends in Global Governance and Future Scenarios 2030"
         authors: ["J. Jordana", "A. Saz", "A. Marx", "A. Holesch", "M. Vandendriessche", "D. Coen", "D. Levi-Faur", "C. Roger", "M. Zürn", "A. Tokhi", "K. Otteburn", "L. Schmitt", "C. Moreno Villar"]
         publisher: "GLOBE Report, Institut Barcelona d'Estudis Internacionals"
@@ -277,12 +285,12 @@ cv:
         publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
         releaseDate: 2020-01-01
       - title: "Mapping of the Trade and Development Global Regimes and Institutions"
-        authors: ["A. Marx", "K. Otteburn", "V. Hegde", "et al."]
+        authors: ["A. Marx", "K. Otteburn", "Vineet Hegde", "et al."]
         publisher: "GLOBE Project: Horizon 2020 Framework Programme of the European Union"
         releaseDate: 2019-01-01
       - title: "Review: Vigilantes Beyond Borders: NGOs as Enforcers of International Law, by Mette Eilstrup-Sangiovanni and J.C. Sharman"
-        authors: ["Kari Otteburn"]
-        publisher: "Revue critique de droit international privé"
+        authors: ["Kari Irwin Otteburn"]
+        publisher: "Revue Critique de Droit International Privé, 2025, issue 1, pp. 199-203"
         releaseDate: 2025-01-01
       - title: "Seeking Corporate Accountability: Progress and Pitfalls of Mandatory Due Diligence"
         authors: ["Kari Otteburn", "Axel Marx"]
